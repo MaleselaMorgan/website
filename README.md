@@ -18,3 +18,4 @@ back, disable the module and clear caches.
 ## Maintainers
 
 -Malesela Morgan Ngoepe
+-mngoepe93@gmail.com
